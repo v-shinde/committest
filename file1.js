@@ -12,4 +12,5 @@ console.log('Fifth Commit');
 console.log('Sixth Commit');
 console.log('Seventh');
 console.log('Eight');
-console.log('nine')
+console.log('nine');
+console.log('Ten');
